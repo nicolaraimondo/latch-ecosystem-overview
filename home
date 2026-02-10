@@ -8,7 +8,8 @@
     body { font-family: system-ui, -apple-system, sans-serif; margin: 0; padding: 2rem; background:#0f172a; color:#e5e7eb; }
     .container { max-width: 640px; margin: 0 auto; }
     h1 { font-size: 2rem; margin-bottom: .5rem; }
-    p { margin-bottom: 1.5rem; color:#cbd5f5; }
+    h2 { font-size: 1.25rem; margin-bottom: 1rem; color:#cbd5e1; }
+    p { margin-bottom: 1.5rem; color:#cbd5e1; line-height: 1.6; }
     a.button {
       display:block; margin-bottom:.75rem; padding:.9rem 1rem;
       background:#1d4ed8; color:white; text-decoration:none;
@@ -21,44 +22,39 @@
 <body>
   <div class="container">
     <h1>Latch – Mockup Demos</h1>
-    <h2>Latch Latch helps businesses to make their websites more navigable and usable for all users by creating a data flywheel that gathers data from neurodivergent interaction patterns.</h2>
-
-<p>### Mission
-
-We exist to make the web navigable and usable for neurodivergent individuals, and to create a data flywheel that helps businesses understand and design for neurodivergent interaction patterns.
-
-### What We Do
-
-We build assistive technology that reduces cognitive friction for neurodivergent users on real websites, while generating scalable behavioural insights that help businesses design better digital experiences.
-
-### Core Product
-
-B2B2C Saas Marketplace - **Latch**:
-
-- User testing by NDs at scale, via optimised focus group matching
-- Immediate and regular actionable recommendations from a powerful specialised dataset
-- Community & easy apply jobs for ND testers
-
-Chrome extension - **Neuro Assist**:
-
-- Data flywheel engine
-- Captures user intent before they interact with a website
-- Assists users in completing tasks with clarity and reduced cognitive load
-- Measures whether the website successfully supported that intent
-- Aggregates anonymised data to reveal where websites fail neurodivergent users. Please noye we also have an unpublished browser extension which we did not link below. All the apps below will tlak to each other and be integrated, creating a data flywheel. It's all part of the same business idea.</p>
-
+    <h2>Latch helps businesses to make their websites more navigable and usable for all users by creating a data flywheel that gathers data from neurodivergent interaction patterns.</h2>
+    
+    <p><strong>Mission:</strong><br>
+    We exist to make the web navigable and usable for neurodivergent individuals, and to create a data flywheel that helps businesses understand and design for neurodivergent interaction patterns.</p>
+    
+    <p><strong>What We Do:</strong><br>
+    We build assistive technology that reduces cognitive friction for neurodivergent users on real websites, while generating scalable behavioural insights that help businesses design better digital experiences.</p>
+    
+    <p><strong>Core Product:</strong></p>
+    <p>B2B2C SaaS Marketplace – <strong>Latch</strong>:<br>
+    • User testing by NDs at scale, via optimised focus group matching<br>
+    • Immediate and regular actionable recommendations from a powerful specialised dataset<br>
+    • Community & easy apply jobs for ND testers</p>
+    
+    <p>Chrome extension – <strong>Neuro Assist</strong>:<br>
+    • Data flywheel engine<br>
+    • Captures user intent before they interact with a website<br>
+    • Assists users in completing tasks with clarity and reduced cognitive load<br>
+    • Measures whether the website successfully supported that intent<br>
+    • Aggregates anonymised data to reveal where websites fail neurodivergent users</p>
+    
+    <p><em>Note: We also have an unpublished browser extension which we did not link below. All the apps below will talk to each other and be integrated, creating a data flywheel. It's all part of the same business idea.</em></p>
+    
     <a class="button" href="https://latch-accessibility-testing-42.created.app/testing-session">
       Demo 1 – AI-powered real time user testing enabler, neurodivergent user support and insights generator
     </a>
-
     <a class="button" href="https://latch-accessibility-testing-42.created.app/jobs-board" target="_blank">
       Demo 2 – Community App for Testers to apply from Jobs from the Marketplace
     </a>
-
     <a class="button" href="https://latchAI.replit.app" target="_blank">
       Demo 3 – Homepage
     </a>
-
+    
     <small>Contact: nicola.raimondo25@imperial.ac.uk</small>
   </div>
 </body>
